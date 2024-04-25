@@ -1,0 +1,13 @@
+.taps{
+    padding: 5px;
+    text-decoration: none;
+    background-color: aqua;
+
+}
+div{
+
+}
+.taps:hover{
+background-color: black;
+
+}
